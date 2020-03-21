@@ -16,6 +16,14 @@
   translation: 次へ
 - id: figure
   translation: '図 %d:'
+- id: edit_page
+  translation: Edit this page
+- id: theme_light
+  translation: Light
+- id: theme_dark
+  translation: Dark
+- id: theme_auto
+  translation: Automatic
 - id: btn_preprint
   translation: プレプリント
 - id: btn_pdf

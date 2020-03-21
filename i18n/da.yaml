@@ -16,6 +16,14 @@
   translation: Næste
 - id: figure
   translation: 'Figur %d:'
+- id: edit_page
+  translation: Edit this page
+- id: theme_light
+  translation: Light
+- id: theme_dark
+  translation: Dark
+- id: theme_auto
+  translation: Automatic
 - id: btn_preprint
   translation: Eksempel
 - id: btn_pdf
