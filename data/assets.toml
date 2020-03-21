@@ -76,6 +76,10 @@
   version = "5.12.0-1"
   sri = "sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU="
   url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
+[css.fontMfizz]
+  version = "2.4.1"
+  sri = "sha384-35JW3aVsD6xe0CaYlVGYT0umdSOYN07xrBIWuT6YsA0Z63UAOg0FewClqvnmpSKr"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/font-mfizz/%s/font-mfizz.min.css"
 [css.academicons]
   version = "1.8.6"
   sri = "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
